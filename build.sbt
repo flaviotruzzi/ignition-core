@@ -1,4 +1,4 @@
-name := "Ignition-core"
+name := "ignition-core"
 
 version := "0.2"
 
